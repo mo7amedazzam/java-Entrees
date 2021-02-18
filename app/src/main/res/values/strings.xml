@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Recycler view</string>
+
+    <string-array name="N_Entrees">
+        <item> Vegetable Soup</item>
+        <item>Mozzarella Sticks</item>
+        <item>Grape leaves</item>
+        <item>Butterscotch Wings</item>
+        <item>Mac Cheese Pasta</item>
+        <item>Kebba</item>
+        <item>Salads</item>
+
+    </string-array>
+
+    <string-array name="E_prices">
+        <item>"3.00$"</item>
+        <item>"2.80$"</item>
+        <item>"3.60$"</item>
+        <item>"4.00$"</item>
+        <item>"2.50$"</item>
+        <item>"3.00$"</item>
+        <item>"2.00$"</item>
+    </string-array>
+
+
+</resources>
